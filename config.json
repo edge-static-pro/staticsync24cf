@@ -1,1 +1,20 @@
-c6bi8OTmaSSpTJVx5KuQEuWCjSMe+wdl0ZlSOuwaIa2bihmCVS+LQbVYwgv4XFjE+lZyGPgXZJDiCJnqDm5vARmI4E0lvApxplJLmwmTbTAsWwMubnmLF0Ag6XgWvldBLwx5RXCQLlxnvDiViQ4f9K4mmaRvYgSb3PvSCaAm5j2zKL6647dDUhYmXFsvYOafGs6hzS+S6YUy8+qNZiuzIQfQ/ve2VmxkHi+lziff3hUfZA4YTYuva5IirdgnJW3LZCqePOg6GC3vyu/1V3JaJruUAjtTvxdujYELFT2dPd5YVNmDhmI9MzNCf5AW34DP9Wvc/FsGd/6PSpncPrqhpVcjmqPqBg7qY5lkHBuNWvahdt9U8Q6tLHCXl/t8gw9TyEHz9A8kdnCBeTekkzIzdQ==
+[
+  {
+    "agent": 1,
+    "tag": "Blue",
+    "apigateway": "https://apigateway.ebvtzf.cn",
+    "bundle": "https://resource.ebvtzf.cn/bundle/ltg"
+  },
+  {
+    "agent": 2,
+    "tag": "Blue",
+    "apigateway": "https://apigateway.ebvtzf.cn",
+    "bundle": "https://resource.ebvtzf.cn/bundle/ltg"
+  },
+  {
+    "agent": 3,
+    "tag": "Green",
+    "apigateway": "https://apigateway.cmrkvr.cn",
+    "bundle": "https://resource.cmrkvr.cn/bundle/ltg"
+  }
+]
